@@ -16,3 +16,9 @@
 [submodule "pack/myplugins/start/delimitMate"]
 	path = pack/myplugins/start/delimitMate
 	url = https://github.com/Raimondi/delimitMate.git
+[submodule "pack/myplugins/start/vim-css3-syntax"]
+	path = pack/myplugins/start/vim-css3-syntax
+	url = https://github.com/hail2u/vim-css3-syntax.git
+[submodule "pack/myplugins/start/vim-closetag"]
+	path = pack/myplugins/start/vim-closetag
+	url = https://github.com/alvan/vim-closetag.git
