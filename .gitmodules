@@ -13,3 +13,6 @@
 [submodule "pack/start/emmet-vim"]
 	path = pack/start/emmet-vim
 	url = git@github.com:mattn/emmet-vim.git
+[submodule "pack/myplugins/start/delimitMate"]
+	path = pack/myplugins/start/delimitMate
+	url = https://github.com/Raimondi/delimitMate.git
