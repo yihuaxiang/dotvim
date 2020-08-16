@@ -22,3 +22,6 @@
 [submodule "pack/myplugins/start/vim-closetag"]
 	path = pack/myplugins/start/vim-closetag
 	url = https://github.com/alvan/vim-closetag.git
+[submodule "pack/myplugins/start/command-t"]
+	path = pack/myplugins/start/command-t
+	url = https://github.com/wincent/command-t.git
