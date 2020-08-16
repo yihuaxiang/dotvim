@@ -25,3 +25,6 @@
 [submodule "pack/myplugins/start/command-t"]
 	path = pack/myplugins/start/command-t
 	url = https://github.com/wincent/command-t.git
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = https://github.com/wincent/command-t.git
